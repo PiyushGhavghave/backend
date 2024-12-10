@@ -1,0 +1,16 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "description": "This is first backend server for pracice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "piyush ghavghave",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
